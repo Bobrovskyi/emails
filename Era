@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width"> -->
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <title></title>
+    <style>
+        html,
+        body {
+            margin: 0 auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        div[style*="margin: 16px 0"] {
+            margin:0 !important;
+        }
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+        table table table {
+            table-layout: auto;
+        }
+        img {
+            -ms-interpolation-mode:bicubic;
+        }
+        *[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+        }
+        .x-gmail-data-detectors,
+        .x-gmail-data-detectors *,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+        }
+        .a6S {
+	        display: none !important;
+	        opacity: 0.01 !important;
+        }
+        img.g-img + div {
+	        display:none !important;
+	   	}
+        .button-link {
+            text-decoration: none !important;
+        }
+    </style>
+</head>
+<body width="100%" bgcolor="#dddddd" style="margin: 0; mso-line-height-rule: exactly;">
+    <center style="width: 100%; background: #dddddd; text-align: left;">
+        <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"></div>
+        <div style="width: 680px; margin: auto;" class="email-container">
+            <!--[if mso]>
+            <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+            <tr>
+            <td>
+            <![endif]-->
+            <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center" width="680">
+                <tr>
+                    <td bgcolor="#ffffff">
+                    	<a href="https://era-perm.ru/">
+                        	<img src="https://user-images.githubusercontent.com/30752630/53080196-cd2c1080-3500-11e9-9e5a-5fc037955dd7.jpg" aria-hidden="true" width="680" height="457" alt="Прайс-лист на печатную продукцию для постоянных клиентов ООО Эра в 2019" border="0" align="center" class="fluid" style="width: 680px; height: 457px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" bgcolor="#ffffff">
+                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="680">
+                            <tr>
+                                <td align="center" style="padding: 40px 40px 20px; font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;text-align: center;">
+                                    <strong>ИЗГОТОВИМ И ДОСТАВИМ В КОРОТКИЕ СРОКИ</strong>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" align="center" height="100%" valign="top" width="680">
+                        <!--[if mso]>
+                        <table role="presentation" aria-hidden="true" border="0" cellspacing="0" cellpadding="0" align="center" width="680">
+                        <tr>
+                        <td align="center" valign="top" width="680">
+                        <![endif]-->
+                        <table role="presentation" aria-hidden="true" border="0" cellpadding="0" cellspacing="0" align="center" width="680">
+                            <tr>
+                                <td align="center" width="210" style="padding: 10px 0px;width: 210px;">
+                                    <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="210" style="font-size: 14px;text-align: center;">
+                                        <tr>
+                                            <td style="font-family: sans-serif; font-size: 12px; line-height: 20px; color: #555555;" class="stack-column-center">
+                                                <strong>ЗНАКИ&nbsp;БЕЗОПАСНОСТИ</strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td align="center" width="260" style="padding: 10px 0px;width: 260px;">
+                                    <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="260" style="font-size: 14px;text-align: center;">
+                                        <tr>
+                                            <td style="font-family: sans-serif; font-size: 12px; line-height: 20px; color: #555555;" class="stack-column-center">
+                                                <strong>ПЛАНЫ&nbsp;ЭВАКУАЦИИ</strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td align="center" width="210" style="padding: 10px 0px;width: 210px;">
+                                    <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="210" style="font-size: 14px;text-align: center;">
+                                        <tr>
+                                            <td style="font-family: sans-serif; font-size: 12px; line-height: 20px; color: #555555;" class="stack-column-center">
+                                            	<strong>ИНФОРМАЦИОННЫЕ&nbsp;СТЕНДЫ</strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                        <img src="https://user-images.githubusercontent.com/30752630/53080197-cd2c1080-3500-11e9-9cbe-100adf7c5414.jpg" aria-hidden="true" width="680" height="182" alt="Наша Продукция" border="0" align="center" class="fluid" style="width: 680px; height: 182px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff" align="center" height="100%" valign="top" width="680">
+                        <!--[if mso]>
+                        <table role="presentation" aria-hidden="true" border="0" cellspacing="0" cellpadding="0" align="center" width="680">
+                        <tr>
+                        <td align="center" valign="top" width="680">
+                        <![endif]-->
+                        <table role="presentation" aria-hidden="true" border="0" cellpadding="0" cellspacing="0" align="center" width="680">
+                            <tr>
+                                <td width="210" align="center" style="padding: 10px 0px;width: 210px;vertical-align: top;">
+                                    <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="210" style="font-size: 14px;text-align: center;">
+                                        <tr>
+                                            <td style="font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;">
+                                                <strong><em>изготовлено в соответствии<br>с ГОСТ&nbsp;Р&nbsp;12.2.143-2009,<br>ГОСТ&nbsp;Р&nbsp;12.4.026-2015</em></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td width="260" align="center" style="padding: 10px 0px;width: 260px;vertical-align: top;">
+                                    <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="260" style="font-size: 14px;text-align: center;">
+                                        <tr>
+                                            <td style="font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;">
+                                                <strong><em>изготовлено в<br>соответствии с ГОСТ Р<br>12.2.143-2009</em></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td width="210" align="center" style="padding: 10px 0px;width: 210px;vertical-align: top;">
+                                    <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="210" style="font-size: 14px;text-align: center;">
+                                        <tr>
+                                            <td style="font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;">
+                                            	<strong><em>Изготовим<br>любой стенд<br>в соответствии с ТЗ<br>Заказчика</em></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]-->
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                    	<a href="https://era-perm.ru/">
+                    		<img src="https://user-images.githubusercontent.com/30752630/53080192-cc937a00-3500-11e9-8171-f7aee2c29c15.jpg" aria-hidden="true" width="680" height="57" alt="era-perm.ru" border="0" align="center" class="fluid" style="width: 680px; height: 57px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    	</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" bgcolor="#ffffff">
+                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="680">
+                            <tr>
+                                <td align="center" style="padding: 40px 40px 20px; font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;text-align: center;">
+                                    <strong>ЗНАКИ БЕЗОПАСНОСТИ</strong>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                        <img src="https://user-images.githubusercontent.com/30752630/53080199-cd2c1080-3500-11e9-9f25-0856e351e478.jpg" aria-hidden="true" width="680" height="255" alt="ЗНАКИ БЕЗОПАСНОСТИ" border="0" align="center" class="fluid" style="width: 680px; height: 255px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    </td>
+                </tr>
+                <tr>
+                    <td height="40" bgcolor="#ffffff" style="font-size: 0; line-height: 0;background: #ffffff;">
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                        <img src="https://user-images.githubusercontent.com/30752630/53100891-552a0e80-3531-11e9-818b-b3b1dd251ca9.png" aria-hidden="true" width="679" height="294" alt="Таблица размеров и цен на знаки безопасности" border="0" align="center" class="fluid" style="width: 679px; height: 294px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" bgcolor="#ffffff">
+                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="680">
+                            <tr>
+                                <td align="center" style="padding: 40px 40px 20px; font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;text-align: center;">
+                                    <strong>ПЛАНЫ ЭВАКУАЦИИ</strong>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                        <img src="https://user-images.githubusercontent.com/30752630/53080200-cd2c1080-3500-11e9-8002-2235752d9bf1.jpg" aria-hidden="true" width="680" height="325" alt="ПЛАНЫ ЭВАКУАЦИИ" border="0" align="center" class="fluid" style="width: 680px; height: 325px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    </td>
+                </tr>
+                <tr>
+                    <td height="40" bgcolor="#ffffff" style="font-size: 0; line-height: 0;background: #ffffff;">
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                	<td bgcolor="#ffffff" style="background: #ffffff;padding: 0 10px;">
+                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="1" width="660" style="margin: auto;">
+                            <tr>
+                                <td colspan="5" align="center" style="padding: 10px 5px;font-family:sans-serif;font-weight:bold;font-size:11px;line-height:16px;color:#000000;text-align: center;background: #dddddd;vertical-align: top;">
+                                Размеры</td>
+                                <td colspan="2" align="center" style="padding: 10px 5px;font-family:sans-serif;font-weight:bold;font-size:11px;line-height:16px;color:#000000;text-align: center;background: #dddddd;vertical-align: top;">Цена печати</td>
+                                <td colspan="2" align="center" style="padding: 10px 5px;font-family:sans-serif;font-weight:bold;font-size:11px;line-height:16px;color:#000000;text-align: center;background: #dddddd;vertical-align: top;">Цена с разработкой макета</td>
+                            </tr>
+                            <tr>
+                                <td colspan="5" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">
+                                	<strong>План эвакуации на фотолюм. плёнке 300x400</strong>
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">400,0 р.
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">600,0 р.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="5" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">
+                                	<strong>План эвакуации на фотолюм. плёнке 400x600</strong>
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">600,0 р.
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">800,0 р.
+                                </td>
+                            </tr>
+                        </table>
+                	</td>
+                </tr>
+                <tr>
+                    <td align="center" bgcolor="#ffffff">
+                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" width="680">
+                            <tr>
+                                <td align="center" style="padding: 40px 40px 20px; font-family: sans-serif; font-size: 14px; line-height: 20px; color: #555555;text-align: center;">
+                                    <strong>ИНФОРМАЦИОННЫЕ СТЕНДЫ</strong>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                        <img src="https://user-images.githubusercontent.com/30752630/53080191-cc937a00-3500-11e9-9928-4d60a52c4f6c.jpg" aria-hidden="true" width="680" height="325" alt="ИНФОРМАЦИОННЫЕ СТЕНДЫ" border="0" align="center" class="fluid" style="width: 680px; height: 325px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    </td>
+                </tr>
+                <tr>
+                    <td height="40" bgcolor="#ffffff" style="font-size: 0; line-height: 0;background: #ffffff;">
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                	<td bgcolor="#ffffff" style="background: #ffffff;" style="padding: 0 10px;">
+                        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="1" width="660" style="margin: auto;">
+                            <tr>
+                                <td colspan="5" align="center" style="padding: 10px 5px;font-family:sans-serif;font-weight:bold;font-size:11px;line-height:16px;color:#000000;text-align: center;background: #dddddd;vertical-align: top;">
+                                Размеры</td>
+                                <td colspan="2" align="center" style="padding: 10px 5px;font-family:sans-serif;font-weight:bold;font-size:11px;line-height:16px;color:#000000;text-align: center;background: #dddddd;vertical-align: top;">Цена печати</td>
+                                <td colspan="2" align="center" style="padding: 10px 5px;font-family:sans-serif;font-weight:bold;font-size:11px;line-height:16px;color:#000000;text-align: center;background: #dddddd;vertical-align: top;">Цена с разработкой макета</td>
+                            </tr>
+                            <tr>
+                                <td colspan="5" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">
+                                	<strong>Стенд информационный пластик 3 мм. 800x1000</strong>
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">900,0 р.
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">1500,0 р.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="5" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">
+                                	<strong>Стенд информационный пластик 3 мм. 1000x1200</strong>
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">1350,0 р.
+                                </td>
+                                <td colspan="2" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">1950,0 р.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="5" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">
+                                	<strong>Дополнительно карман 1 шт.</strong>
+                                </td>
+                                <td colspan="4" align="center" style="padding:10px 5px;font-family:sans-serif;font-size:11px;line-height:16px;color:#000000;text-align:center;background: #ffffff">110,0 р.
+                                </td>
+                            </tr>
+                        </table>
+                	</td>
+                </tr>
+                <tr>
+                    <td height="40" bgcolor="#ffffff" style="font-size: 0; line-height: 0;background: #ffffff;">
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                        <img src="https://user-images.githubusercontent.com/30752630/53080194-cc937a00-3500-11e9-8f1b-a0bb31a0be2f.jpg" aria-hidden="true" width="680" height="181" alt="Действует ежедневная доставка курьером. Мы бережно упакуем ваш заказ и привизем его в ваш офис." border="0" align="center" class="fluid" style="width: 680px; height: 181px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#ffffff">
+                    	<a href="https://era-perm.ru/">
+                    		<img src="https://user-images.githubusercontent.com/30752630/53080192-cc937a00-3500-11e9-8171-f7aee2c29c15.jpg" aria-hidden="true" width="680" height="57" alt="era-perm.ru" border="0" align="center" class="fluid" style="width: 680px; height: 57px; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;" class="g-img">
+                    	</a>
+                    </td>
+                </tr>
+            </table>
+            <!--[if mso]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </div>
+    </center>
+</body>
+</html>
